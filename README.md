@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Alan%20Gustavo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20%7C%20Software%20Engineer&descAlignY=58&descSize=20" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0b3d91,100:00d9ff&height=230&section=header&text=Code%20%E2%80%A2%20Leadership%20%E2%80%A2%20AI&fontSize=40&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Transformando%20ideias%20em%20solu%C3%A7%C3%B5es%20escal%C3%A1veis&descSize=18&descAlignY=56" alt="Header"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Tech+Lead+%26+Software+Engineer;Java+%7C+.NET+%7C+Angular+%7C+AWS;Construindo+solu%C3%A7%C3%B5es+com+IA+%F0%9F%A4%96;Liderando+times+de+alta+performance+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=620&lines=%3E+Tech+Lead+%26+Software+Engineer;%3E+Java+%7C+.NET+%7C+Angular+%7C+AWS;%3E+Explorando+IA+aplicada+ao+desenvolvimento+%F0%9F%A4%96;%3E+Liderando+times+de+alta+performance+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -43,8 +43,6 @@ Sou **Tech Lead e Engenheiro de Software**, apaixonado por tecnologia e por tran
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=openaigym&logoColor=white" alt="Prompt Engineering"/>
 </p>
 
@@ -73,5 +71,5 @@ Sou **Tech Lead e Engenheiro de Software**, apaixonado por tecnologia e por tran
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,60:0b3d91,100:0d1117&height=120&section=footer" alt="Footer"/>
 </p>
